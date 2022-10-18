@@ -1,2 +1,2 @@
-# desafio-primeiro-repositorio
-Desafio de Projeto DIO sobre Git e GitHub.
+# Desafio de Projeto #1 - Git/GitHub :computer:
+Potência Tech powered by iFood - Java Beginners
